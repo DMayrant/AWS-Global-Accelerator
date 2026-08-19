@@ -20,5 +20,5 @@ terraform apply
 
 ![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Multi-region%20AWS%20Global%20Accelerator.jpeg?raw=true)
 
-![image alt](<img width="2186" height="390" alt="image" src="https://github.com/user-attachments/assets/dedcbd1a-c559-4ff1-a8e7-659bad219b61" />)
+![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Screenshot%202569-08-18%20at%2021.49.52.png?raw=true)
 
