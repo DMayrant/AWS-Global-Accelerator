@@ -18,3 +18,4 @@ terraform plan
 terraform apply
 ```
 
+![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Multi-region%20AWS%20Global%20Accelerator.jpeg?raw=true)
