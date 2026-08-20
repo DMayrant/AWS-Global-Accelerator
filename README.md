@@ -8,6 +8,8 @@ Edge locations provide points of presence closer to users and support services s
 
 AWS Global Accelerator provides two static anycast public IPv4 addresses that are advertised from AWS edge locations. User traffic enters the AWS global network at an optimal edge location and is routed across the AWS global backbone to a healthy regional endpoint, such as an Application Load Balancer. This can improve availability and network performance by reducing the portion of the traffic path that traverses the public internet.
 
+![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Screenshot%202569-08-18%20at%2021.49.52.png?raw=true)
+
 
 # Terraform Commands 🏗️
 ```bash 
