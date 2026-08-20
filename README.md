@@ -23,3 +23,5 @@ Finding alb arn for Global Accelerator
 terraform output -raw alb_arn
 ```
 
+![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Multi-region%20AWS%20Global%20Accelerator.jpeg?raw=true)
+
