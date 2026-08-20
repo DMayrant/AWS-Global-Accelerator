@@ -18,7 +18,8 @@ terraform plan
 terraform apply
 ```
 
-![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Multi-region%20AWS%20Global%20Accelerator.jpeg?raw=true)
-
-![image alt](https://github.com/DMayrant/AWS-Global-Accelerator/blob/main/Screenshot%202569-08-18%20at%2021.49.52.png?raw=true)
+Finding alb arn for Global Accelerator
+```bash
+terraform output -raw alb_arn
+```
 

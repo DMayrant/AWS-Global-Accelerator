@@ -1,5 +1,4 @@
 ### PRIMARY REGION REMOTE STATE
-
 data "terraform_remote_state" "primary" {
   backend = "s3"
 
@@ -9,4 +8,3 @@ data "terraform_remote_state" "primary" {
     region = "us-east-1"
   }
 }
-
