@@ -22,8 +22,8 @@ jobs:
         include:
           - directory: US-East-1
             region: us-east-1
-          - directory: EU-West-1
-            region: eu-west-1
+          - directory: US-West-1
+            region: us-west-1
           - directory: AP-Southeast-7
             region: ap-southeast-7
 
